@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hcjcch(huangchen)
-- 👀 I’m interested in football, runnin, outdoor, reading, programming
+- 👀 I’m interested in football, running, outdoor, reading, programming
 - 🌱 I’m currently learning cpp, computer network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
